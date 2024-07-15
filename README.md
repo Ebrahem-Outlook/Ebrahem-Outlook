@@ -4,8 +4,8 @@
 I'm a passionate software engineer specializing in backend development and distributed systems. With extensive experience in designing and implementing resilient, responsive, scalable, and maintainable systems using C# and the .NET ecosystem. My expertise includes modular monoliths, microservices, system design, software architecture, Domain-Driven Design (DDD), event sourcing, design patterns, CQRS, DevOps, and problem-solving. I am skilled in unit testing, integration testing, architecture testing, and CI/CD. 
 
 ## Contact Me
-- LinkedIn: [Ebrahem Mohamed](https://www.linkedin.com/in/your-linkedin-profile)
-- Twitter: [@your_twitter_handle]
+- LinkedIn: [Ebrahem Mohamed]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/ebrahem-mohamed-31609b314/))
+- Twitter: [@Ebrahem_outlook]
 
 ## Skills
 - C#
