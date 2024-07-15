@@ -1,16 +1,17 @@
-## Hi there, I'm Ebrahem Mohamed 👋 👋
+                                                                              Hi there, I'm Ebrahem Mohamed 👋
+I'm a software engineer specializing in backend development and distributed systems. I have extensive experience in designing and implementing resilient, responsive, scalable, and maintainable systems using C# and the .NET ecosystem. My expertise includes modular monoliths, microservices, system design, software architecture, Domain-Driven Design (DDD), event sourcing, design patterns, CQRS, DevOps, and problem-solving. I am skilled in unit testing, integration testing, architecture testing, and CI/CD. Passionate about learning, sharing knowledge, and tackling challenges, I am also an open-source enthusiast.
 
-
-**Ebrahem-Outlook/Ebrahem-Outlook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+🛠 Technologies & Skills
+C#
+.NET
+Golang
+PostgreSQL
+MongoDB
+Kubernetes
+Docker
+Azure
+JavaScript
+TypeScript
+Angular
+Kafka
+💻 Open Source Projects
