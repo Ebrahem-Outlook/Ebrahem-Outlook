@@ -29,9 +29,6 @@ I'm a senior software engineer specializing in backend development and distribut
     <a href="">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="54" height="54" style="vertical-align:top; margin:4px;">
     </a>
-    <a href="https://golang.org/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="Golang" width="54" height="54" style="vertical-align:top; margin:4px;">
-    </a>
     <a href="https://dotnet.microsoft.com/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="54" height="54" style="vertical-align:top; margin:4px;">
     </a>
