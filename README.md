@@ -5,6 +5,8 @@
 
 I'm a senior software engineer specializing in backend development and distributed systems. With a focus on C#, .NET, and related technologies, I excel in designing and implementing resilient, scalable, and maintainable systems. My expertise includes microservices, system design, software architecture, domain-driven design (DDD), event sourcing, CQRS, and DevOps. I thrive on learning, sharing knowledge, and tackling challenges, driven by a passion for open-source contributions.
 
+I'm a Senior Software Engineer with a specialization in backend development and distributed systems. Expert in C#, .NET, and related technologies, with a proven track record in designing and implementing resilient, scalable, and maintainable systems. Proficient in microservices architecture, system design, domain-driven design (DDD), event sourcing, CQRS, and DevOps practices. Passionate about continuous learning, knowledge sharing, and solving complex challenges, with a strong commitment to contributing to open-source projects.
+
 <p align="center"> 
  <a href="https://twitter.com/EbrahemOutlook" alt="Ebrahem Mohamed's twitter">
    <img src="https://img.shields.io/badge/%20-Twitter-%231DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
